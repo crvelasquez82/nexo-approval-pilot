@@ -1,0 +1,1 @@
+Cambio ficticio para comprobar que una propuesta sin revisión no puede incorporarse.
